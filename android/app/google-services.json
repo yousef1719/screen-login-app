@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307342396806",
+    "project_id": "batman-app-b90ee",
+    "storage_bucket": "batman-app-b90ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307342396806:android:52ee11908a976c36cb7007",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOykdNP4XThANBLcqPaNGGEbpQLDJK6Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
